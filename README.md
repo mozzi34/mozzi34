@@ -95,7 +95,6 @@ Here are some ideas to get you started:
 <details>
   <summary>DocThur[24.10.08~24.10.31]</summary>
     <h3>DATABASE</h3>
-  <ul>
     <ul>
     <li> Express를 활용한 작업물(워크), 댓글(피드백) CRUD 구축</li>
     <ul>
@@ -103,7 +102,6 @@ Here are some ideas to get you started:
 <li>[피드백 명세서](https://docthru-be.vercel.app/api-docs/#/Feedback)</li>
       </ul>
     </ul>
-</ul>
       <h3>Frontend</h3>
       <ul>
       <li>React를 활용한 참여한 챌린지 목록 구현</li>
