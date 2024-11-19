@@ -94,6 +94,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>DocThur[24.10.08~24.10.31]</summary>
+    <h3>DATABASE</h3>
   <ul>
     <li>Backend</li>
     <ul>
@@ -102,13 +103,13 @@ Here are some ideas to get you started:
   <li> [워크 명세서](https://docthru-be.vercel.app/api-docs/#/Work)</li>
 <li>[피드백 명세서](https://docthru-be.vercel.app/api-docs/#/Feedback)</li>
       </ul>
+    </ul>
 </ul>
-      <li>Frontend</li>
+      <h3>Frontend</h3>
       <ul>
       <li>React를 활용한 참여한 챌린지 목록 구현</li>
   <li>반응형 웹사이트 구현</li>
         </ul>
-    </ul>
 
 </ul>
 
