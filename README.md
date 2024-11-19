@@ -84,11 +84,17 @@ Here are some ideas to get you started:
     <li>body 배경색</li>
   </ul>
 
+
+
 **스터디 목록 조회**
 <a href='https://ifh.cc/v-RvKCMg' target='_blank'><img src='https://ifh.cc/g/RvKCMg.jpg' border='0'></a>
 
 **스터디 생성하기 폼**
 <a href='https://ifh.cc/v-Wl6vk1' target='_blank'><img src='https://ifh.cc/g/Wl6vk1.jpg' border='0'></a>
+
+## 🔗 구현 홈페이지
+
+[공부의 숲](https://gatherstudy.netlify.app/)
 
 </details>
 
@@ -104,13 +110,16 @@ Here are some ideas to get you started:
     </ul>
       <h3>Frontend</h3>
       <ul>
-      <li>React를 활용한 참여한 챌린지 목록 구현</li>
+      <li>나의페이지에서 React를 활용한 참여한 챌린지 목록 구현</li>
   <li>반응형 웹사이트 구현</li>
         </ul>
-
+<h4>https://docthru.vercel.app</h4<h4>
 </ul>
 
 **참여한 챌린지 목록**
 <ul><img width="893" alt="스크린샷 2024-11-19 오후 4 53 07" src="https://github.com/user-attachments/assets/0403383e-2017-4209-b99d-07f7cbe43726">
-  
+
+  ## 🔗 구현 홈페이지
+
+[DocThur](https://docthru.vercel.app)
 </details>
