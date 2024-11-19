@@ -113,7 +113,6 @@ Here are some ideas to get you started:
       <li>나의페이지에서 React를 활용한 참여한 챌린지 목록 구현</li>
   <li>반응형 웹사이트 구현</li>
         </ul>
-<h4>https://docthru.vercel.app</h4<h4>
 </ul>
 
 **참여한 챌린지 목록**
@@ -121,5 +120,5 @@ Here are some ideas to get you started:
 
   ## 🔗 구현 홈페이지
 
-[DocThur](https://docthru.vercel.app)
+[DocThur](https://docthru.vercel.app/)
 </details>
