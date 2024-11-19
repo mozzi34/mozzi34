@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>공부의 숲</summary>
+  <summary>공부의 숲 [24.08.13~24.09.02]</summary>
   <h3>DATABASE</h3>
   <ul>
     <li>study</li>
@@ -93,10 +93,26 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>DocThur</summary>
+  <summary>DocThur[24.10.08~24.10.31]</summary>
   <ul>
+    <li>Backend</li>
+    <ul>
+    <li> Express를 활용한 작업물(워크), 댓글(피드백) CRUD 구축</li>
+    <ul>
   <li> [워크 명세서](https://docthru-be.vercel.app/api-docs/#/Work)</li>
 <li>[피드백 명세서](https://docthru-be.vercel.app/api-docs/#/Feedback)</li>
+      </ul>
 </ul>
+      <li>Frontend</li>
+      <ul>
+      <li>React를 활용한 참여한 챌린지 목록 구현</li>
+  <li>반응형 웹사이트 구현</li>
+        </ul>
+    </ul>
+
+</ul>
+
+**참여한 챌린지 목록**
+<ul><img width="893" alt="스크린샷 2024-11-19 오후 4 53 07" src="https://github.com/user-attachments/assets/0403383e-2017-4209-b99d-07f7cbe43726">
   
 </details>
