@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>DocThur[24.10.08~24.10.31]</summary>
+  <summary>Docthru[24.10.08~24.10.31]</summary>
     <h3>DATABASE</h3>
     <ul>
     <li> Express를 활용한 작업물(워크), 댓글(피드백) CRUD 구축</li>
