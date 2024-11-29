@@ -120,5 +120,5 @@ Here are some ideas to get you started:
 
   ## 🔗 구현 홈페이지
 
-[DocThur](https://docthru.vercel.app/)
+[Docthru](https://docthru.vercel.app/)
 </details>
