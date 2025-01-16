@@ -122,3 +122,97 @@ Here are some ideas to get you started:
 
 [Docthru](https://docthru.vercel.app/)
 </details>
+
+<details>
+  <summary>Moving[24.11.25~25.01.13]</summary>
+      <h3>Frontend</h3>
+      <ul>
+
+🎶 **공통 컴포넌트**
+- 🔗 **[알림 컴포넌트](https://github.com/moving-team/moving-fe/blob/main/src/components/nav/components/NotificationModal.tsx)**  
+  : 소비자와 기사님이 **새로운 견적**, **견적 확정**, **이사 당일 알림**을 실시간으로 받을 수 있는 컴포넌트.
+  ![image](https://github.com/user-attachments/assets/e57319b1-2466-4774-ac44-28e8960195ab)
+
+
+- 🔗 **[SNS 공유 컴포넌트](https://github.com/moving-team/moving-fe/blob/main/src/components/snsShare/SnsShare.tsx)**  
+  : 기사님 정보와 견적서를 **링크 복사**, **카카오톡**, **페이스북**을 통해 손쉽게 공유할 수 있는 컴포넌트.
+
+- 🔗 **[칩(Chip) 컴포넌트](https://github.com/moving-team/moving-fe/blob/main/src/components/chip/Chip.tsx)**  
+  : **소형 이사**, **가정 이사**, **사무실 이사**, **지정 견적 요청**, **확정 견적** 등 서비스 상태와 유형을 직관적으로 보여주는 컴포넌트.
+
+
+✨ **[소비자 견적 요청 페이지](https://github.com/moving-team/moving-fe/blob/main/src/page/user/costCall/index.tsx)**  
+- **소비자**는 **채팅 형태**의 인터페이스를 통해 간편하게 **이사 정보를 입력**하고 **기사님에게 견적 요청**을 보낼 수 있습니다.  
+
+<table>
+  <tr>
+    <th style="width: 650px; height: 100px;">데스크탑 & 태블릿 버전</th>
+    <th style="width: 350px; height: 100px;">모바일 버전</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2279d18c-eef8-43fa-81ef-eb60f96f27fa" alt="데스크탑 & 태블릿 버전 이미지"></td>
+    <td><img src="https://github.com/user-attachments/assets/a9c03264-6118-462b-9ada-b1acc7194939" alt="모바일 버전 이미지"></td>
+  </tr>
+</table>
+
+- #### **이사 정보 입력**  
+	- **이사 종류**, **이사 날짜**, **출발지 및 도착지 주소** 입력  
+	- **카카오 우편번호 서비스**를 활용해 **정확한 주소** 입력 가능  
+	- **프로그래스 바**로 입력 진행 상황을 **시각적으로 확인** 가능  
+	- 각 입력 항목 아래의 **수정하기 버튼**을 통해 입력 내용 **수정 가능**  
+
+- ####  **견적 요청 기준**  
+	- **이사일이 지난 후**에만 **새로운 견적 요청** 가능  
+	- **한 번에 하나의 이사 정보**만 활성화하여 견적 요청 가능  
+	- 기존 요청이 **확정**되기 전까지는 **새로운 요청 불가**  
+	- 한 번의 요청에 대해 **최대 5명의 기사님**이 견적을 보낼 수 있음
+
+<br>
+
+✨ **[소비자 받았던 견적 목록 페이지](https://github.com/moving-team/moving-fe/blob/main/src/page/user/receivedCost/index.tsx)**  
+- **소비자**는 이전에 받았던 **견적 요청 목록**을 확인할 수 있습니다.  
+
+<table>
+  <tr>
+    <th style="width: 650px; height: 100px;">데스크탑 & 태블릿 버전</th>
+    <th style="width: 350px; height: 100px;">모바일 버전</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6ad5416c-885b-47e1-abcf-1e605cbc0f0a" alt="데스크탑 & 태블릿 버전 이미지"></td>
+    <td><img src="https://github.com/user-attachments/assets/e792ebdb-ecc0-4682-ae76-bb75bcd4725f" alt="모바일 버전 이미지"></td>
+  </tr>
+</table>
+
+- 각 **견적 카드**에는 해당 요청에 응답한 **여러 기사님 중 첫 번째 기사님**의 견적서가 **대표 견적**으로 표시됩니다.  
+- **확정 견적 뱃지**와 **지정 견적 요청 뱃지**와 **견적 금액**이 표시됩니다.  
+  - **확정 견적**: **"확정" 뱃지** 표시  
+  - **지정 견적 요청**: **"지정 요청" 뱃지** 표시  
+- **"견적 목록 보기" 버튼**을 클릭하면 **받았던 견적 상세 페이지**로 이동하여 **해당 견적에 대한 여러 기사님들의 견적서 목록**을 확인할 수 있습니다.
+
+<br>
+
+✨ **[소비자 받았던 견적 상세 페이지](https://github.com/moving-team/moving-fe/blob/main/src/page/user/receivedCostDetail/index.tsx)**  
+- **소비자**가 보낸 **견적 요청 정보**가 표시됩니다.  
+
+<table>
+  <tr>
+    <th style="width: 650px; height: 100px;">데스크탑 & 태블릿 버전</th>
+    <th style="width: 350px; height: 100px;">모바일 버전</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b722943e-d823-43d5-b0e7-1471d9c13a83" alt="데스크탑 & 태블릿 버전 이미지"></td>
+    <td><img src="https://github.com/user-attachments/assets/54d0b831-7a7c-4995-90d1-3d89dc8b1003" alt="모바일 버전 이미지"></td>
+  </tr>
+</table>
+
+- **소비자**는 특정 **견적 요청**에 대해 응답한 **모든 기사님들의 견적서 목록**을 확인할 수 있습니다.  
+- 각 기사님의 **프로필 카드**에는 상태에 따라 **확정 견적 뱃지**와 **지정 견적 요청 뱃지**와 **견적 금액**이 표시됩니다.  
+- **기사님 프로필 카드**를 클릭하면 해당 견적의 **견적 상세 페이지**로 이동하여 자세한 내용을 확인할 수 있습니다.  
+
+<br>
+
+  ## 🔗 구현 홈페이지
+
+[무빙]([https://docthru.vercel.app/](https://moving-fe-teal.vercel.app/))
+</details>
+
