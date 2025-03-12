@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 ## 🔗 링크
 
-[공부의 숲 배포 링크](https://gatherstudy.netlify.app/)
+[공부의 숲 배포 링크](https://gatherstudy.netlify.app/)<br>
 [GitHub 저장소 링크](https://github.com/mozzi34/1-studyteam-2-fe)
 
 </details>
