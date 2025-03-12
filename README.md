@@ -92,9 +92,10 @@ Here are some ideas to get you started:
 **스터디 생성하기 폼**
 <a href='https://ifh.cc/v-Wl6vk1' target='_blank'><img src='https://ifh.cc/g/Wl6vk1.jpg' border='0'></a>
 
-## 🔗 구현 홈페이지
+## 🔗 링크
 
-[공부의 숲](https://gatherstudy.netlify.app/)
+[공부의 숲 배포 링크](https://gatherstudy.netlify.app/)
+[GitHub 저장소 링크](https://github.com/mozzi34/1-studyteam-2-fe)
 
 </details>
 
@@ -118,9 +119,11 @@ Here are some ideas to get you started:
 **참여한 챌린지 목록**
 <ul><img width="893" alt="스크린샷 2024-11-19 오후 4 53 07" src="https://github.com/user-attachments/assets/0403383e-2017-4209-b99d-07f7cbe43726">
 
-  ## 🔗 구현 홈페이지
+  ## 🔗 링크
 
-[Docthru](https://docthru.vercel.app/)
+[Docthru 배포 링크](https://docthru.vercel.app/)<br>
+[GitHub 저장소 링크](https://github.com/juyeongeun/1-study-2-FE)
+
 </details>
 
 <details>
@@ -211,8 +214,10 @@ Here are some ideas to get you started:
 
 <br>
 
-  ## 🔗 구현 홈페이지
+  ## 🔗 링크
 
-<b>[Moving](https://moving-fe-teal.vercel.app)</b> <br>
+[Moving 배포 링크](https://moving-fe-teal.vercel.app)<br>
+[GitHub 저장소 링크](https://github.com/moving-team/moving-fe)
+<br>
 </details>
 
